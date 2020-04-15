@@ -1,0 +1,7 @@
+.git
+conftest.py
+tests
+requirements-test.txt
+.gitignore
+Jenkinsfile
+README.md
