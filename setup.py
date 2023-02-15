@@ -10,6 +10,6 @@ setup(
         'flask_migrate',
         'flask_CORS',
         'flask_sqlalchemy',
-        'Werkzeug==0.16.1'
+        'Werkzeug==2.2.3'
     ],
 )
